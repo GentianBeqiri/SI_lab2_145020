@@ -8,8 +8,9 @@
 
 ###  Control Flow Graph
 
+![Control Flow Graph](https://user-images.githubusercontent.com/38784370/83469229-632e4500-a47f-11ea-86a2-1c2573694c5e.jpg)
 
-Фотографија од control flow graph-ot 
+
 
 ### Цикломатска комплексност
 
